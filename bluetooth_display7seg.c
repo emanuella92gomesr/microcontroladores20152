@@ -1,4 +1,6 @@
-#include "SanUSB1.h" //
+//Programa que exibe números de 0 a 9 em um display de sete segmentos, através de conexão com celular via bluetooth
+
+#include "SanUSB1.h" 
 short int pisca=0;
 unsigned char comando;
 
